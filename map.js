@@ -58,7 +58,7 @@ const studentsWithId = students1.map( student => [student.name, student.id]);
 console.log(studentsWithId);
 
 
-// EXERCISSES 
+// EXERCISES 
 
 let students = [
   {
